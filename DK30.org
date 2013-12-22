@@ -2,3 +2,93 @@
 
   - Termin: 21.1.2014 15--17 Uhr
   - [[http://www.radio-okj.de/][Radio OKJ]], Helmboldstrasse, Jena-Ost
+  
+  - meine 2 ct (13-12-22)
+  Motivation: Warum diese Sendung ?
+gesamtes Leben ist von IT durchdrungen, Verbraucher-Schutz ist mehr, als Fahrrad-Helm oder Hammelfleisch.
+YP: Schirrmacher „Information als Fetisch“
+http://youtu.be/vkuiUjs6P_U
+
+- Absolutismus: Vereinzelung der  Nutzer, weil diese Daten ein Schatz sein, der die Geschäftsgrundlage darstellt.
+Zustände sind so krass, dass sie sich nicht mehr kabarettistisch zuspitzen lassen.
+
+- Algorithmen schreiben Leben vor: Man glaubt, was bei wikipedia steht, man glaubt, den Google-Suchergebnissen, Virenscanner drängelt sich überall rein: wir akzeptieren das., ebenso wie das dauernde einspielen von Pasches.
+Big-Data. Beispiel: vorhergesagte Schwangerschaft.
+Müll-Firma weiss was ich konsumiert habe (RFID)
+
+- Märchen von der „Schutzlücke“ = Enzensberger: „Postdemokratische Zustände“
+http://youtu.be/DIREm3eWa5A
+
+Wer nichts zu verbergen hat, hat auch nichts zu befürchten
+(ungleiche Informations-Potentiale: einzelner Nutzer, intransparenter Staat)
+
+Denkverbote aufheben (Beispiel Steuer - Spende Sloterdijk)
+Internet der Dinge: Samsung baut in jedes Haushaltsgerät Android ein.
+Heizung und Beleuchtung steuern, intelligente Stromzähler ? 
+Schufa + HPI: Daten für Scooring bei FB ?!
+
+- Ego. Spiel des Lebens
+wie alles begann: egoistisch handeln bringt mathematisch Vorteile: es ist vernünftig, egoistisch zu sein.
+Ablösung irrational handelnder Radar-Operator durch rational handelnden Agenten
+alle an die Wallstreet - heute alle in der Versicherungswirtschaft:
+Rolle von Big Data: Gesetz der grossen Zahlen.
+
+- BYOD = Fuss-Fessel - im kommenden Internet der Dinge wird das noch spannender
+Trennlinie zwischen Arbeit und Leben  verschwindet 
+Suggestion: fur immer im flow (work hard play hard)
+
+- Online sein bis über den Tod hinaus ?
+(FB täglich 500 TB)
+- Was lernt man, wenn man sich bei Facebook abmelden will? 
+Vor allem eins: Facebook versucht das zu verhindern.
+siehe SZ Magazin H.51
+
+- BMW ConnectedDrive
+Big Bayer is watching you
+Autos senden Fahrerprofile - über die Zukunft der Mobilität:
+Der gläserne Autofahrer
+Maut-Daten zur Verbrechens-Prävention
+
+- Tracking Dots: Jeder Kopierer legt Ser# + Datum + Uhrzeit auf jeder Kopie an ((gelb) 
+Kopierer haben HDD, die alle Daten zwischen speichern !
+- Geldscheine: Serien # bei der Aussage am ATM oder Schalter einen account zugeordnet.
+GEZ. opt-out, Kennung, erfassbar, wer mit wem wohnt etc. Privatsphäre
+
+Beispiele bei FB: Frau motze gegen Blitzer, darauf hin droht die Behörde mit Idioten Test !
+
+Trapwire: verknüpft Überwachungs-Kameras mit Datenbanken und scannt damit nach Verdächtigen, 
+Maut-Brücken, Gesundheitskarte, ePerso - alles miteinander verknüpfter.
+Wer meint, es sind zu viele Daten oder Schrott, der irrt, 
+Algorithmen sind sehr leistungsfähig Speicher sind riesig (SSD) sieh high -frequency-trading.
+
+siehe auch : Arbeitsfrei - Eine Entdeckungsreise zu den Maschinen, die uns ersetzen werden.
+Der neue Kollege macht nur Überstunden 
+Überleitung zu „narrativ science“. Firma programmiert Algorithmen,die Zeitungsartikel schreiben.
+
+- Self Tracking
+Pflaster misst Fitnesswerte
+Zahnbürste berichtet dem Zahnarzt
+Krankenkassen: Druck auf psychisch Kranke wächst
+www.stoppt-die-e-card.de
+Juli Zeh "Corpus Delicti Ein Prozess "
+
+- Neuer Bachelor IT-Sicherheit
+
+- Wie Snowden den Cloud-Sicherheitsmarkt beeinflusst
+Identitätsmanagement: Wie viel Zugriffsrechte sind nötig?
+
+- NSA nutzt Cookies zur Überwachung
+- CSC in alle großen IT-Vorhaben eingebunden: De-Mail, nPa, ePa, Staatstrojaner, Waffenregister, E-Gerichtsakte, E-Strafregister 
+- Sascha Lobo über den Weg in den Kontrollstaat 
+
+- Thema Virtuelle Währung
+- Abschaffung des Bargeldes ?
+Bitcoin erreicht neuen Höchstwert von 600 Dollar
+
+Personen, die diesen Beitrag gut fanden, finden vielleicht auch die folgenden Beiträge gut ...
+
+Buch „WebAttack“
+http://www.heise.de/tp/artikel/40/40298/1.html
+
+- - End 13-12-22
+
